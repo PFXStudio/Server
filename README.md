@@ -42,6 +42,13 @@
 [lib Copy]
 /Users/pfxstudio/Documents/Server.checkout/trunk/Server/WebContent/WEB-INF/lib
 jar 파일 복사
+MySQL 접속에 필요한 mysql-connector-java-5.1.31-bin.jar 있나 확인
+
+[Eclipse 설정]
+Eclipse 설정에 Server - Runtime Environments - Add Tomcat
+
+[Server 프로젝트 설정]
+Project Facets - Runtimes - Tomcat 선택
 
 ```
 
